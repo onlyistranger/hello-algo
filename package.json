@@ -1,9 +1,9 @@
-1{
-2    "name": "mkdocs",
-3    "version": "1.0.0",
-4    "private": true,
-5    "scripts": {
-6        "dev": "mkdocs serve",
-7        "build": "mkdocs build -d public"
-8    }
-9}
+{
+    "name": "mkdocs",
+    "version": "1.0.0",
+    "private": true,
+    "scripts": {
+        "dev": "mkdocs serve",
+        "build": "mkdocs build -d public"
+    }
+}
